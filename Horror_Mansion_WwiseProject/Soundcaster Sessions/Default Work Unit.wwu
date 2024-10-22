@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{80D34CCC-0FC9-498A-9A19-D673507EB59F}" SchemaVersion="119">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{80D34CCC-0FC9-498A-9A19-D673507EB59F}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="SoundCaster footsteps &amp; ambiences" ID="{3AD64256-0878-4F02-825A-AFD4AD5346E1}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Carpet" ID="{D183F635-51C7-40A6-A0E3-E0FF3DFB37AF}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Wood" ID="{0179F37D-0C81-4D01-ACF3-6FC51124C3B1}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music_Outside" ID="{2E6B85CE-B672-43A8-9951-76C201ADECA8}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Ambience_Outside" ID="{CF2495B7-2411-486E-86CE-C2EB91B7617D}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="0" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Concrete" ID="{49D30044-EEC1-4ED9-B8D4-7CA5D0DB8B20}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Gravel" ID="{4FE8E207-D32D-49E7-B3C9-5030326E5A95}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music_Mansion" ID="{5B8A7885-C976-4383-BBFB-739428D593D3}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Ambience_Mansion" ID="{6FA8213F-E98B-481F-B794-51EFAF6FA09E}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="1" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Dirt" ID="{7161DACC-628A-457A-9A10-53542E053691}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Tile" ID="{FA766D2D-9716-422D-9A9E-682ADBDF6173}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Music_Greenhouse" ID="{679AE99D-1296-43AB-94B5-FA7D2B87CAC2}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Ambience_Greenhouse" ID="{DA75F876-BC16-4DC4-A1BE-1A4918E57102}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="2" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Grass" ID="{E79AA14F-9829-4110-A1AF-EBF50AA796FE}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Piano - random" ID="{917DA541-DC09-4BFD-A852-A452E3DF3AAA}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="3" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Light switch" ID="{7A0A952E-D755-4FDA-B18C-6EB8A9003CCD}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="3" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Crows - Random Container" ID="{778431FC-13F0-43C7-9001-9947153B8B91}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="3" Y="3"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Telephone ring" ID="{6078188A-EF0C-4EFB-B39C-8EED4E8685F3}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="4" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Telephone answer" ID="{B8B9BD3C-AD13-4FFC-9422-4863F78D6A5A}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="4" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Toilet flush" ID="{411D31F4-A307-4A5F-A5D5-2A5112714F57}" WorkUnitID="{157A0879-55FC-43E9-B85E-47E53620CAAC}"/>
+							<Position X="4" Y="2"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="None" ID="{C03B9DAB-46D4-425A-8C82-53BB57AD5CB6}"/>
+						<CurrentStateRef Name="None" ID="{2B340803-21E6-4397-8124-6270A1F55ED6}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Carpet" ID="{81BA2B2C-E5A7-4698-BE1D-12447EE52E71}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>
