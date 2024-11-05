@@ -95,10 +95,54 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{33C39E05-DC1C-DF64-3391-77B8EB9A19AC}">
+		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{F378C2B6-7981-27E1-A927-EC3541577AF3}">
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<Media>
+				<File Id="8973227" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - dirt (7).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - dirt (7)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="14593938" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Clock tick tocks\Tick 4.wav</ShortName>
+					<CachePath>SFX/Clock tick tocks/Tick 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="18346196" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - rock (4).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - rock (4)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="83908610" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - dirt (3).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - dirt (3)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="89462103" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Jump - up.wav</ShortName>
+					<CachePath>SFX/Footsteps/Jump - up_818F3B66.wem</CachePath>
+				</File>
+				<File Id="92901360" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (4).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (4)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="103783881" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (8).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (8)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="110048707" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - dirt (2).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - dirt (2)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="136719207" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (6).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (6)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="178279160" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Clock tick tocks\Tock 1.wav</ShortName>
+					<CachePath>SFX/Clock tick tocks/Tock 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="181247357" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - dirt (4).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - dirt (4)_818F3B66.wem</CachePath>
+				</File>
 				<File Id="203575313" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (9).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (9)_818F3B66.wem</CachePath>
@@ -106,6 +150,10 @@
 				<File Id="239863977" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Crow, Ravens Croaking.wav</ShortName>
 					<CachePath>SFX/Crow, Ravens Croaking_5B1F81DA.wem</CachePath>
+				</File>
+				<File Id="272183946" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (4).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (4)_818F3B66.wem</CachePath>
 				</File>
 				<File Id="281939355" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Crow, Ravens Croaking.wav</ShortName>
@@ -115,45 +163,181 @@
 					<ShortName>Footsteps\Footstep - carpet (5).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (5)_818F3B66.wem</CachePath>
 				</File>
+				<File Id="317326308" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - dirt (1).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - dirt (1)_818F3B66.wem</CachePath>
+				</File>
 				<File Id="318589639" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Crow, Ravens Croaking.wav</ShortName>
 					<CachePath>SFX/Crow, Ravens Croaking_8C7A7BBF.wem</CachePath>
+				</File>
+				<File Id="325662030" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - grass (3).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - grass (3)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="371096138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (3).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (3)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="374982475" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (9).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (9)_818F3B66.wem</CachePath>
 				</File>
 				<File Id="379268888" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (6).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (6)_818F3B66.wem</CachePath>
 				</File>
+				<File Id="381314302" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - rock (3).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - rock (3)_818F3B66.wem</CachePath>
+				</File>
 				<File Id="389546834" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Silence.wav</ShortName>
 					<CachePath>SFX/Silence_818F3B66.wem</CachePath>
+				</File>
+				<File Id="408556493" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - dirt (6).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - dirt (6)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="411310237" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Clock tick tocks\Tick 3.wav</ShortName>
+					<CachePath>SFX/Clock tick tocks/Tick 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="461460570" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - grass (2).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - grass (2)_818F3B66.wem</CachePath>
 				</File>
 				<File Id="502193217" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (2).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (2)_818F3B66.wem</CachePath>
 				</File>
+				<File Id="516865792" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (1).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (1)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="558576003" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (7).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (7)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="577063098" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (8).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (8)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="582518252" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - dirt (5).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - dirt (5)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="590735254" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (9).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (9)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="615605844" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (2).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (2)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="622635636" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - rock (2).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - rock (2)_818F3B66.wem</CachePath>
+				</File>
 				<File Id="629568929" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Silence.wav</ShortName>
 					<CachePath>SFX/Silence_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="631835382" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>43679-HOUSEHOLD_LIGHTSWITCH_CLICK_OFF_01.wav</ShortName>
+					<CachePath>SFX/43679-HOUSEHOLD_LIGHTSWITCH_CLICK_OFF_01_818F3B66.wem</CachePath>
+				</File>
+				<File Id="648286569" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - rock (1).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - rock (1)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="661812111" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Clock tick tocks\Tick 2.wav</ShortName>
+					<CachePath>SFX/Clock tick tocks/Tick 2_818F3B66.wem</CachePath>
 				</File>
 				<File Id="665634680" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (7).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (7)_818F3B66.wem</CachePath>
 				</File>
+				<File Id="749087672" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (5).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (5)_818F3B66.wem</CachePath>
+				</File>
 				<File Id="751538994" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (3).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (3)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="752494650" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (2).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (2)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="762112767" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (10).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (10)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="762294939" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - dirt (8).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - dirt (8)_818F3B66.wem</CachePath>
 				</File>
 				<File Id="771140652" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (10).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (10)_818F3B66.wem</CachePath>
 				</File>
+				<File Id="783257750" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Clock tick tocks\Tock 3.wav</ShortName>
+					<CachePath>SFX/Clock tick tocks/Tock 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="788492661" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Clock tick tocks\Tock 4.wav</ShortName>
+					<CachePath>SFX/Clock tick tocks/Tock 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="797445894" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - grass (1).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - grass (1)_818F3B66.wem</CachePath>
+				</File>
 				<File Id="839166752" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (8).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (8)_818F3B66.wem</CachePath>
 				</File>
+				<File Id="868263321" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (10).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (10)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="873101606" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (5).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (5)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="909364056" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Jump - land.wav</ShortName>
+					<CachePath>SFX/Footsteps/Jump - land_818F3B66.wem</CachePath>
+				</File>
+				<File Id="946970139" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Clock tick tocks\Tock 2.wav</ShortName>
+					<CachePath>SFX/Clock tick tocks/Tock 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="950546126" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (7).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (7)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="950748524" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - concrete (3).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - concrete (3)_818F3B66.wem</CachePath>
+				</File>
 				<File Id="966059573" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (4).wav</ShortName>
 					<CachePath>SFX/Footsteps/Footstep - carpet (4)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1038095133" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (6).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (6)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1045824455" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Clock tick tocks\Tick 1.wav</ShortName>
+					<CachePath>SFX/Clock tick tocks/Tick 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1051654862" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Footstep - wood (1).wav</ShortName>
+					<CachePath>SFX/Footsteps/Footstep - wood (1)_818F3B66.wem</CachePath>
 				</File>
 				<File Id="1073475835" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - carpet (1).wav</ShortName>
@@ -215,12 +399,19 @@
 						<MediaRef Id="389546834"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1602358412" Name="Play_Footstep" DurationType="OneShot" DurationMin="0.1482206" DurationMax="0.5449844">
+				<Event Id="1602358412" Name="Play_Footstep" DurationType="OneShot" DurationMin="0.24635956" DurationMax="0.75796753">
 					<SwitchContainers>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="2195636714"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="8973227"/>
+								<MediaRef Id="83908610"/>
+								<MediaRef Id="110048707"/>
+								<MediaRef Id="181247357"/>
+								<MediaRef Id="317326308"/>
+								<MediaRef Id="408556493"/>
+								<MediaRef Id="582518252"/>
+								<MediaRef Id="762294939"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
@@ -241,37 +432,70 @@
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="2637588553"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="18346196"/>
+								<MediaRef Id="381314302"/>
+								<MediaRef Id="622635636"/>
+								<MediaRef Id="648286569"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="841620460"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="103783881"/>
+								<MediaRef Id="136719207"/>
+								<MediaRef Id="272183946"/>
+								<MediaRef Id="374982475"/>
+								<MediaRef Id="516865792"/>
+								<MediaRef Id="558576003"/>
+								<MediaRef Id="615605844"/>
+								<MediaRef Id="868263321"/>
+								<MediaRef Id="873101606"/>
+								<MediaRef Id="950748524"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="2058049674"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="92901360"/>
+								<MediaRef Id="371096138"/>
+								<MediaRef Id="577063098"/>
+								<MediaRef Id="590735254"/>
+								<MediaRef Id="749087672"/>
+								<MediaRef Id="752494650"/>
+								<MediaRef Id="762112767"/>
+								<MediaRef Id="950546126"/>
+								<MediaRef Id="1038095133"/>
+								<MediaRef Id="1051654862"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="2185786256"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="18346196"/>
+								<MediaRef Id="381314302"/>
+								<MediaRef Id="622635636"/>
+								<MediaRef Id="648286569"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="4248645337"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="325662030"/>
+								<MediaRef Id="461460570"/>
+								<MediaRef Id="797445894"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="2195636714"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="8973227"/>
+								<MediaRef Id="83908610"/>
+								<MediaRef Id="110048707"/>
+								<MediaRef Id="181247357"/>
+								<MediaRef Id="317326308"/>
+								<MediaRef Id="408556493"/>
+								<MediaRef Id="582518252"/>
+								<MediaRef Id="762294939"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
@@ -292,31 +516,57 @@
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="2637588553"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="18346196"/>
+								<MediaRef Id="381314302"/>
+								<MediaRef Id="622635636"/>
+								<MediaRef Id="648286569"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="841620460"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="103783881"/>
+								<MediaRef Id="136719207"/>
+								<MediaRef Id="272183946"/>
+								<MediaRef Id="374982475"/>
+								<MediaRef Id="516865792"/>
+								<MediaRef Id="558576003"/>
+								<MediaRef Id="615605844"/>
+								<MediaRef Id="868263321"/>
+								<MediaRef Id="873101606"/>
+								<MediaRef Id="950748524"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="2058049674"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="92901360"/>
+								<MediaRef Id="371096138"/>
+								<MediaRef Id="577063098"/>
+								<MediaRef Id="590735254"/>
+								<MediaRef Id="749087672"/>
+								<MediaRef Id="752494650"/>
+								<MediaRef Id="762112767"/>
+								<MediaRef Id="950546126"/>
+								<MediaRef Id="1038095133"/>
+								<MediaRef Id="1051654862"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="2185786256"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="18346196"/>
+								<MediaRef Id="381314302"/>
+								<MediaRef Id="622635636"/>
+								<MediaRef Id="648286569"/>
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="63790334" Id="4248645337"/>
 							<MediaRefs>
-								<MediaRef Id="389546834"/>
+								<MediaRef Id="325662030"/>
+								<MediaRef Id="461460570"/>
+								<MediaRef Id="797445894"/>
 							</MediaRefs>
 						</SwitchContainer>
 					</SwitchContainers>
@@ -343,7 +593,14 @@
 				</Event>
 				<Event Id="3529309445" Name="Play_Grandfather_Clock_Ticking" MaxAttenuation="30" DurationType="Infinite">
 					<MediaRefs>
-						<MediaRef Id="389546834"/>
+						<MediaRef Id="14593938"/>
+						<MediaRef Id="178279160"/>
+						<MediaRef Id="411310237"/>
+						<MediaRef Id="661812111"/>
+						<MediaRef Id="783257750"/>
+						<MediaRef Id="788492661"/>
+						<MediaRef Id="946970139"/>
+						<MediaRef Id="1045824455"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="4139471422" Name="Play_Greenhouse_Ambience_and_Music_Blend_Container" DurationType="Infinite">
@@ -353,7 +610,14 @@
 				</Event>
 				<Event Id="2791222881" Name="Play_Guesthouse_clock" MaxAttenuation="30" DurationType="Infinite">
 					<MediaRefs>
-						<MediaRef Id="389546834"/>
+						<MediaRef Id="14593938"/>
+						<MediaRef Id="178279160"/>
+						<MediaRef Id="411310237"/>
+						<MediaRef Id="661812111"/>
+						<MediaRef Id="783257750"/>
+						<MediaRef Id="788492661"/>
+						<MediaRef Id="946970139"/>
+						<MediaRef Id="1045824455"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="1551283559" Name="Play_Inside_Ambience_and_Music_Blend_Container" DurationType="Infinite">
@@ -362,19 +626,19 @@
 						<MediaRef Id="629568929"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3689126666" Name="Play_Jump" DurationType="OneShot" DurationMin="0.15941043" DurationMax="0.15941043">
+				<Event Id="3689126666" Name="Play_Jump" DurationType="OneShot" DurationMin="0.264127" DurationMax="0.264127">
 					<MediaRefs>
-						<MediaRef Id="389546834"/>
+						<MediaRef Id="89462103"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="2323405115" Name="Play_Landing" DurationType="OneShot" DurationMin="0.17893216" DurationMax="0.17893216">
+				<Event Id="2323405115" Name="Play_Landing" DurationType="OneShot" DurationMin="0.08379014" DurationMax="0.08379014">
 					<MediaRefs>
-						<MediaRef Id="389546834"/>
+						<MediaRef Id="909364056"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1241030149" Name="Play_Light_switch" DurationType="OneShot" DurationMin="0.1439179" DurationMax="0.17144503">
+				<Event Id="1241030149" Name="Play_Light_switch" DurationType="OneShot" DurationMin="0.28136668" DurationMax="0.3351836">
 					<MediaRefs>
-						<MediaRef Id="389546834"/>
+						<MediaRef Id="631835382"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="1553787382" Name="Play_Music___Indoor_Shrill" DurationType="Infinite">
@@ -399,7 +663,14 @@
 				</Event>
 				<Event Id="813190480" Name="Play_Small_clock" MaxAttenuation="30" DurationType="Infinite">
 					<MediaRefs>
-						<MediaRef Id="389546834"/>
+						<MediaRef Id="14593938"/>
+						<MediaRef Id="178279160"/>
+						<MediaRef Id="411310237"/>
+						<MediaRef Id="661812111"/>
+						<MediaRef Id="783257750"/>
+						<MediaRef Id="788492661"/>
+						<MediaRef Id="946970139"/>
+						<MediaRef Id="1045824455"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="754369548" Name="Play_Stinger" DurationType="OneShot" DurationMin="0.15941043" DurationMax="0.15941043">
@@ -514,5 +785,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{0DA361A5-F7D3-3C9D-5416-09EB9CF5CE7C}</FileHash>
+	<FileHash>{048C6BF4-AB87-8E6D-4C17-7681D48A8FD4}</FileHash>
 </SoundBanksInfo>

@@ -96,7 +96,7 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{4FC5D6DD-B0C0-A5EB-4591-40BE4C433C45}">
+		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{F378C2B6-7981-27E1-A927-EC3541577AF3}">
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<Media>
@@ -243,6 +243,10 @@
 				<File Id="629568929" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Silence.wav</ShortName>
 					<CachePath>SFX/Silence_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="631835382" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>43679-HOUSEHOLD_LIGHTSWITCH_CLICK_OFF_01.wav</ShortName>
+					<CachePath>SFX/43679-HOUSEHOLD_LIGHTSWITCH_CLICK_OFF_01_818F3B66.wem</CachePath>
 				</File>
 				<File Id="648286569" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Footstep - rock (1).wav</ShortName>
@@ -633,9 +637,9 @@
 						<MediaRef Id="909364056"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1241030149" Name="Play_Light_switch" DurationType="OneShot" DurationMin="0.1439179" DurationMax="0.17144503">
+				<Event Id="1241030149" Name="Play_Light_switch" DurationType="OneShot" DurationMin="0.28136668" DurationMax="0.3351836">
 					<MediaRefs>
-						<MediaRef Id="389546834"/>
+						<MediaRef Id="631835382"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="1553787382" Name="Play_Music___Indoor_Shrill" DurationType="Infinite">
@@ -782,5 +786,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{4BBFC2E0-6636-3276-E13F-A145A7F48E7A}</FileHash>
+	<FileHash>{19F7CE12-D839-7C84-FCCC-54A7607B15CE}</FileHash>
 </SoundBanksInfo>

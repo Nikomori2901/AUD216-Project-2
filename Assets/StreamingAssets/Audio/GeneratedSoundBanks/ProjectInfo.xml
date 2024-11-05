@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo>
-	<Project Name="Horror_WwiseProject" GUID="{E56F8784-2901-4F3C-9774-888719A290DF}" Generator="2023.1.5.8522"/>
+	<Project Name="Horror_WwiseProject" GUID="{E56F8784-2901-4F3C-9774-888719A290DF}" Generator="2023.1.8.8601"/>
 	<CacheRoot>../../../../Horror_Mansion_WwiseProject/.cache</CacheRoot>
 	<Platforms>
 		<Platform Name="Mac" GUID="{2611A5D3-C15A-4985-86C5-F5F2EE486C18}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../Horror_Mansion_WwiseProject/GeneratedSoundBanks/Mac"/>
@@ -9,5 +9,5 @@
 	<Languages>
 		<Language Name="English(US)" Id="684519430" GUID="{467724AB-C2F4-4FF9-AF8C-91DF92D56417}" Default="true" UseAsStandIn="true"/>
 	</Languages>
-	<FileHash>{B12A4829-FDF3-1E82-E9E6-39EA9777EB50}</FileHash>
+	<FileHash>{9C285420-68FB-315B-7B04-92282C3DEB54}</FileHash>
 </ProjectInfo>
