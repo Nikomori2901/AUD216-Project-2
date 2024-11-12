@@ -1968,16 +1968,16 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="Silence" ID="{A6FBD6CF-C16C-465F-9732-D7613A3DC66C}">
+								<AudioFileSource Name="43679-HOUSEHOLD_LIGHTSWITCH_CLICK_OFF_01" ID="{D43688C7-517B-4F02-A7C5-EA379B467701}">
 									<Language>SFX</Language>
-									<AudioFile>Silence.wav</AudioFile>
+									<AudioFile>43679-HOUSEHOLD_LIGHTSWITCH_CLICK_OFF_01.wav</AudioFile>
 									<MediaIDList>
-										<MediaID ID="389546834"/>
+										<MediaID ID="631835382"/>
 									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
 							<ActiveSourceList>
-								<ActiveSource Name="Silence" ID="{A6FBD6CF-C16C-465F-9732-D7613A3DC66C}" Platform="Linked"/>
+								<ActiveSource Name="43679-HOUSEHOLD_LIGHTSWITCH_CLICK_OFF_01" ID="{D43688C7-517B-4F02-A7C5-EA379B467701}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 						<Sound Name="Toilet flush" ID="{411D31F4-A307-4A5F-A5D5-2A5112714F57}" ShortID="311375389">
@@ -2009,11 +2009,11 @@
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
-								<AudioFileSource Name="Silence" ID="{7FC5DF41-5D63-46F6-A7E1-393C12432400}">
+								<AudioFileSource Name="Toilet flush" ID="{F80460E5-5BD3-49DA-A785-D6AA62C08BC6}">
 									<Language>SFX</Language>
-									<AudioFile>Silence.wav</AudioFile>
+									<AudioFile>Toilet flush.wav</AudioFile>
 									<MediaIDList>
-										<MediaID ID="389546834"/>
+										<MediaID ID="385790190"/>
 									</MediaIDList>
 								</AudioFileSource>
 							</ChildrenList>
@@ -2092,7 +2092,7 @@
 								</ObjectList>
 							</ObjectLists>
 							<ActiveSourceList>
-								<ActiveSource Name="Silence" ID="{7FC5DF41-5D63-46F6-A7E1-393C12432400}" Platform="Linked"/>
+								<ActiveSource Name="Toilet flush" ID="{F80460E5-5BD3-49DA-A785-D6AA62C08BC6}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 						<RandomSequenceContainer Name="Piano - random" ID="{917DA541-DC09-4BFD-A852-A452E3DF3AAA}" ShortID="925646762">
@@ -2249,7 +2249,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Attenuation">
-									<ObjectRef Name="General rolloff" ID="{C9B86A6C-18F6-4EE1-9F70-00C3CE4E47EA}" WorkUnitID="{DB549FBE-090B-49EE-9A41-8F5701E111C7}"/>
+									<ObjectRef Name="General Roloff - 20m" ID="{ECE9FD1D-324B-4752-957A-00A58314BCE3}" WorkUnitID="{DB549FBE-090B-49EE-9A41-8F5701E111C7}"/>
 								</Reference>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{384FEABF-0247-46CC-B197-132F35622C40}"/>
@@ -2314,7 +2314,7 @@
 																	</Point>
 																	<Point>
 																		<XPos>1</XPos>
-																		<YPos>0</YPos>
+																		<YPos>45</YPos>
 																		<Flags>37</Flags>
 																	</Point>
 																</PointList>
@@ -2349,7 +2349,7 @@
 																	</Point>
 																	<Point>
 																		<XPos>1</XPos>
-																		<YPos>0</YPos>
+																		<YPos>-8</YPos>
 																		<Flags>37</Flags>
 																	</Point>
 																</PointList>
@@ -2401,16 +2401,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{E303AD7A-3060-4F65-A066-67FDDDAC90D6}">
+										<AudioFileSource Name="Ambience - Greenhouse" ID="{D90532AF-90EC-4C07-B6D0-1A8ED6EB7C4F}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Ambience - Greenhouse.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="629568929"/>
+												<MediaID ID="649351859"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{E303AD7A-3060-4F65-A066-67FDDDAC90D6}" Platform="Linked"/>
+										<ActiveSource Name="Ambience - Greenhouse" ID="{D90532AF-90EC-4C07-B6D0-1A8ED6EB7C4F}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="Music_Greenhouse" ID="{679AE99D-1296-43AB-94B5-FA7D2B87CAC2}" ShortID="176695637">
@@ -2508,16 +2508,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{33A0DB4A-2AEA-4017-B554-124D9E295CAF}">
+										<AudioFileSource Name="Ambience - Inside" ID="{D5C8C7D4-3F15-4EA1-B72C-ED4709A533B8}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Ambience - Inside.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="629568929"/>
+												<MediaID ID="214104773"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{33A0DB4A-2AEA-4017-B554-124D9E295CAF}" Platform="Linked"/>
+										<ActiveSource Name="Ambience - Inside" ID="{D5C8C7D4-3F15-4EA1-B72C-ED4709A533B8}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 								<RandomSequenceContainer Name="Music_Mansion" ID="{5B8A7885-C976-4383-BBFB-739428D593D3}" ShortID="108071624">
@@ -2632,6 +2632,11 @@
 									<PropertyList>
 										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 										<Property Name="OverrideOutput" Type="bool" Value="True"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-26</Value>
+											</ValueList>
+										</Property>
 									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
@@ -2642,22 +2647,27 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{0B00CB04-0B40-48A8-97B5-4660D8D9341A}">
+										<AudioFileSource Name="Ambience - Outside" ID="{FE9C64BF-8DE4-49A0-B14D-CBF3C66634AD}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Ambience - Outside.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="629568929"/>
+												<MediaID ID="32544912"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{0B00CB04-0B40-48A8-97B5-4660D8D9341A}" Platform="Linked"/>
+										<ActiveSource Name="Ambience - Outside" ID="{FE9C64BF-8DE4-49A0-B14D-CBF3C66634AD}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="Music_Outside" ID="{2E6B85CE-B672-43A8-9951-76C201ADECA8}" ShortID="759437949">
 									<PropertyList>
 										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 										<Property Name="OverrideOutput" Type="bool" Value="True"/>
+										<Property Name="Volume" Type="Real64">
+											<ValueList>
+												<Value>-24</Value>
+											</ValueList>
+										</Property>
 									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
@@ -2668,16 +2678,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{CF7EC036-E581-408D-B366-17E3DB54DCA1}">
+										<AudioFileSource Name="Haunted Mansion" ID="{EDFE9503-C9E1-427E-A519-E90EAE325E92}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Haunted Mansion.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="629568929"/>
+												<MediaID ID="673636403"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{CF7EC036-E581-408D-B366-17E3DB54DCA1}" Platform="Linked"/>
+										<ActiveSource Name="Haunted Mansion" ID="{EDFE9503-C9E1-427E-A519-E90EAE325E92}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
@@ -3433,19 +3443,19 @@
 										<ObjectList Name="RTPC">
 											<Reference>
 												<Local>
-													<RTPC Name="" ID="{4329D739-3CFE-4942-A1D0-286376165847}" ShortID="722686633">
+													<RTPC Name="" ID="{4943AD8A-84F1-4E00-907C-22EE37EA9E1E}" ShortID="353911796">
 														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Volume"/>
+															<Property Name="PropertyName" Type="string" Value="Lowpass"/>
 														</PropertyList>
 														<ReferenceList>
 															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+																<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
 															</Reference>
 															<Reference Name="Curve">
 																<Custom>
-																	<Curve Name="" ID="{2A024674-123A-4325-A64C-7AA0D952264C}">
+																	<Curve Name="" ID="{4D820DAA-7469-408F-BB07-8A307AA29DE4}">
 																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="3"/>
+																			<Property Name="Flags" Type="int32" Value="65537"/>
 																		</PropertyList>
 																		<PointList>
 																			<Point>
@@ -3455,7 +3465,7 @@
 																			</Point>
 																			<Point>
 																				<XPos>1</XPos>
-																				<YPos>0</YPos>
+																				<YPos>51</YPos>
 																				<Flags>37</Flags>
 																			</Point>
 																		</PointList>
@@ -3468,29 +3478,29 @@
 											</Reference>
 											<Reference>
 												<Local>
-													<RTPC Name="" ID="{B7A50FCE-0D85-4D7E-BF9B-EEBF1BD0385B}" ShortID="234392472">
+													<RTPC Name="" ID="{3199BE0C-D4FA-4B1A-A1F1-93BC3E6921E5}" ShortID="914209374">
 														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Lowpass"/>
+															<Property Name="PropertyName" Type="string" Value="Volume"/>
 														</PropertyList>
 														<ReferenceList>
 															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+																<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
 															</Reference>
 															<Reference Name="Curve">
 																<Custom>
-																	<Curve Name="" ID="{DCDA8E4C-3C4B-4384-BBB6-D863F2C69084}">
+																	<Curve Name="" ID="{988CDA46-B384-4B6B-8650-A13CEE05BB16}">
 																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="65537"/>
+																			<Property Name="Flags" Type="int32" Value="3"/>
 																		</PropertyList>
 																		<PointList>
 																			<Point>
 																				<XPos>0</XPos>
-																				<YPos>0</YPos>
+																				<YPos>0.0404000000000053</YPos>
 																				<Flags>5</Flags>
 																			</Point>
 																			<Point>
 																				<XPos>1</XPos>
-																				<YPos>0</YPos>
+																				<YPos>-10.261</YPos>
 																				<Flags>37</Flags>
 																			</Point>
 																		</PointList>
@@ -3743,19 +3753,19 @@
 										<ObjectList Name="RTPC">
 											<Reference>
 												<Local>
-													<RTPC Name="" ID="{10FB9D1C-2FDC-41A6-B28C-6CB212AD4361}" ShortID="328854830">
+													<RTPC Name="" ID="{E8BE5220-9519-4F72-9107-315A9C57A2F2}" ShortID="111726340">
 														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Volume"/>
+															<Property Name="PropertyName" Type="string" Value="Lowpass"/>
 														</PropertyList>
 														<ReferenceList>
 															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+																<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
 															</Reference>
 															<Reference Name="Curve">
 																<Custom>
-																	<Curve Name="" ID="{F8295B01-415D-49A7-B856-E3C9B1772522}">
+																	<Curve Name="" ID="{6F4A0686-5F79-4F7D-B49B-CC18B62D8CF1}">
 																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="3"/>
+																			<Property Name="Flags" Type="int32" Value="65537"/>
 																		</PropertyList>
 																		<PointList>
 																			<Point>
@@ -3765,7 +3775,7 @@
 																			</Point>
 																			<Point>
 																				<XPos>1</XPos>
-																				<YPos>0</YPos>
+																				<YPos>51</YPos>
 																				<Flags>37</Flags>
 																			</Point>
 																		</PointList>
@@ -3778,29 +3788,29 @@
 											</Reference>
 											<Reference>
 												<Local>
-													<RTPC Name="" ID="{219EEF35-337F-4FB5-9176-F0198FC3A94E}" ShortID="909177220">
+													<RTPC Name="" ID="{E73051C4-E7A6-405F-89CF-39D9C2294335}" ShortID="829051387">
 														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Lowpass"/>
+															<Property Name="PropertyName" Type="string" Value="Volume"/>
 														</PropertyList>
 														<ReferenceList>
 															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+																<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
 															</Reference>
 															<Reference Name="Curve">
 																<Custom>
-																	<Curve Name="" ID="{B7031405-182F-4C84-885E-5E5361A88263}">
+																	<Curve Name="" ID="{D0DD6983-2633-4089-8460-BA150E13EDCA}">
 																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="65537"/>
+																			<Property Name="Flags" Type="int32" Value="3"/>
 																		</PropertyList>
 																		<PointList>
 																			<Point>
 																				<XPos>0</XPos>
-																				<YPos>0</YPos>
+																				<YPos>0.0404000000000053</YPos>
 																				<Flags>5</Flags>
 																			</Point>
 																			<Point>
 																				<XPos>1</XPos>
-																				<YPos>0</YPos>
+																				<YPos>-10.261</YPos>
 																				<Flags>37</Flags>
 																			</Point>
 																		</PointList>
@@ -3910,13 +3920,13 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Attenuation">
-									<ObjectRef Name="General rolloff" ID="{C9B86A6C-18F6-4EE1-9F70-00C3CE4E47EA}" WorkUnitID="{DB549FBE-090B-49EE-9A41-8F5701E111C7}"/>
+									<ObjectRef Name="Furnace Attenuation" ID="{06F6F323-3016-41C5-A2F9-1848DFBC0F0F}" WorkUnitID="{DB549FBE-090B-49EE-9A41-8F5701E111C7}"/>
 								</Reference>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{384FEABF-0247-46CC-B197-132F35622C40}"/>
 								</Reference>
 								<Reference Name="OutputBus">
-									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C45DB433-D797-4E67-951E-85BD25C4D08A}"/>
+									<ObjectRef Name="SFX Bus" ID="{5F89FD2E-CBA5-4521-8FD9-6EF560C1AB0A}" WorkUnitID="{C45DB433-D797-4E67-951E-85BD25C4D08A}"/>
 								</Reference>
 							</ReferenceList>
 							<ChildrenList>
@@ -3934,16 +3944,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{C62DA34C-5E62-40F9-96EC-938AD057B78D}">
+										<AudioFileSource Name="Furnace fire crackles" ID="{AD35E62B-358E-4FED-AA00-656F47FEC880}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Furnace fire crackles.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="629568929"/>
+												<MediaID ID="2806583"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{C62DA34C-5E62-40F9-96EC-938AD057B78D}" Platform="Linked"/>
+										<ActiveSource Name="Furnace fire crackles" ID="{AD35E62B-358E-4FED-AA00-656F47FEC880}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="Furnace rumbles" ID="{3573A56D-4210-4B64-B817-0187CB936A18}" ShortID="865960040">
@@ -3960,16 +3970,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{9A65D427-223E-4444-8023-C3C28F9C281C}">
+										<AudioFileSource Name="Furnace rumbles" ID="{5175F1C7-41E2-4B39-BB7D-5F5719B2CD04}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Furnace rumbles.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="629568929"/>
+												<MediaID ID="464803153"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{9A65D427-223E-4444-8023-C3C28F9C281C}" Platform="Linked"/>
+										<ActiveSource Name="Furnace rumbles" ID="{5175F1C7-41E2-4B39-BB7D-5F5719B2CD04}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
@@ -3998,7 +4008,7 @@
 								<ObjectList Name="RTPC">
 									<Reference>
 										<Local>
-											<RTPC Name="" ID="{8E2B3DD8-7A23-4DD2-838B-AF42E21A84B5}" ShortID="1041345335">
+											<RTPC Name="" ID="{F67476F5-181A-4EBE-9B0F-E5F6C2C7E4D1}" ShortID="843397352">
 												<PropertyList>
 													<Property Name="PropertyName" Type="string" Value="Lowpass"/>
 												</PropertyList>
@@ -4008,7 +4018,7 @@
 													</Reference>
 													<Reference Name="Curve">
 														<Custom>
-															<Curve Name="" ID="{B4C083E2-7034-461B-9EFD-758A19F9555D}">
+															<Curve Name="" ID="{04E76FFF-EA51-4448-90F7-934F274595D8}">
 																<PropertyList>
 																	<Property Name="Flags" Type="int32" Value="65537"/>
 																</PropertyList>
@@ -4020,7 +4030,7 @@
 																	</Point>
 																	<Point>
 																		<XPos>1</XPos>
-																		<YPos>0</YPos>
+																		<YPos>45</YPos>
 																		<Flags>37</Flags>
 																	</Point>
 																</PointList>
@@ -4033,7 +4043,7 @@
 									</Reference>
 									<Reference>
 										<Local>
-											<RTPC Name="" ID="{A5BC1DC3-578F-4F79-BE8F-6EBD5B0A8A7A}" ShortID="28571357">
+											<RTPC Name="" ID="{20A014A2-9F6E-4882-826D-8BFCEECB635D}" ShortID="539919478">
 												<PropertyList>
 													<Property Name="PropertyName" Type="string" Value="Volume"/>
 												</PropertyList>
@@ -4043,7 +4053,7 @@
 													</Reference>
 													<Reference Name="Curve">
 														<Custom>
-															<Curve Name="" ID="{D2313479-FCAB-4A20-8191-29309802AE81}">
+															<Curve Name="" ID="{F37EDB70-BF9A-428D-86E9-3F268E06F366}">
 																<PropertyList>
 																	<Property Name="Flags" Type="int32" Value="3"/>
 																</PropertyList>
@@ -4055,7 +4065,7 @@
 																	</Point>
 																	<Point>
 																		<XPos>1</XPos>
-																		<YPos>0</YPos>
+																		<YPos>-12</YPos>
 																		<Flags>37</Flags>
 																	</Point>
 																</PointList>
@@ -4196,16 +4206,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{2C6CC9C9-5B09-4EA2-A6C3-686C95AF8ED9}">
+										<AudioFileSource Name="Door - Light open" ID="{CE534A9B-3C49-4BC2-A728-8C2EF0761174}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Door - Light open.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="389546834"/>
+												<MediaID ID="1008390333"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{2C6CC9C9-5B09-4EA2-A6C3-686C95AF8ED9}" Platform="Linked"/>
+										<ActiveSource Name="Door - Light open" ID="{CE534A9B-3C49-4BC2-A728-8C2EF0761174}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="Door_bulkhead_close" ID="{CC0F1E3A-5156-4A54-9D02-79D4A1B89A78}" ShortID="563195773">
@@ -4229,6 +4239,9 @@
 										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="General Roloff - 20m" ID="{ECE9FD1D-324B-4752-957A-00A58314BCE3}" WorkUnitID="{DB549FBE-090B-49EE-9A41-8F5701E111C7}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{384FEABF-0247-46CC-B197-132F35622C40}"/>
 										</Reference>
@@ -4237,90 +4250,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{836D162E-39A6-45D2-A7C5-BAA3923203CE}">
+										<AudioFileSource Name="Door - Light close" ID="{3F2755C4-886A-4BF2-B27F-8069C8EE9D5D}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Door - Light close.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="389546834"/>
+												<MediaID ID="337058312"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
-									<ObjectLists>
-										<ObjectList Name="RTPC">
-											<Reference>
-												<Local>
-													<RTPC Name="" ID="{DD35065C-65A3-492F-A756-302C9298B1C2}" ShortID="986672271">
-														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Volume"/>
-														</PropertyList>
-														<ReferenceList>
-															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
-															</Reference>
-															<Reference Name="Curve">
-																<Custom>
-																	<Curve Name="" ID="{7814ADB9-E192-44A2-B480-6FDA1A5396F1}">
-																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="3"/>
-																		</PropertyList>
-																		<PointList>
-																			<Point>
-																				<XPos>0</XPos>
-																				<YPos>0</YPos>
-																				<Flags>5</Flags>
-																			</Point>
-																			<Point>
-																				<XPos>1</XPos>
-																				<YPos>0</YPos>
-																				<Flags>37</Flags>
-																			</Point>
-																		</PointList>
-																	</Curve>
-																</Custom>
-															</Reference>
-														</ReferenceList>
-													</RTPC>
-												</Local>
-											</Reference>
-											<Reference>
-												<Local>
-													<RTPC Name="" ID="{F44E73FB-CA20-4452-A426-E710825CF25D}" ShortID="1032191451">
-														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Lowpass"/>
-														</PropertyList>
-														<ReferenceList>
-															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
-															</Reference>
-															<Reference Name="Curve">
-																<Custom>
-																	<Curve Name="" ID="{80A10BAA-7CF6-41F0-8352-8D6EF9E113D1}">
-																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="65537"/>
-																		</PropertyList>
-																		<PointList>
-																			<Point>
-																				<XPos>0</XPos>
-																				<YPos>0</YPos>
-																				<Flags>5</Flags>
-																			</Point>
-																			<Point>
-																				<XPos>1</XPos>
-																				<YPos>0</YPos>
-																				<Flags>37</Flags>
-																			</Point>
-																		</PointList>
-																	</Curve>
-																</Custom>
-															</Reference>
-														</ReferenceList>
-													</RTPC>
-												</Local>
-											</Reference>
-										</ObjectList>
-									</ObjectLists>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{836D162E-39A6-45D2-A7C5-BAA3923203CE}" Platform="Linked"/>
+										<ActiveSource Name="Door - Light close" ID="{3F2755C4-886A-4BF2-B27F-8069C8EE9D5D}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
@@ -4346,16 +4285,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{9612F9D9-1FF9-4F4B-8F19-7694494A9E75}">
+										<AudioFileSource Name="Door - Light open" ID="{C7484C32-7B4F-4AD4-A6E5-A2BB90913D03}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Door - Light open.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="389546834"/>
+												<MediaID ID="1008390333"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{9612F9D9-1FF9-4F4B-8F19-7694494A9E75}" Platform="Linked"/>
+										<ActiveSource Name="Door - Light open" ID="{C7484C32-7B4F-4AD4-A6E5-A2BB90913D03}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="Door_medium_close" ID="{1258157A-D831-4538-9335-4F4EC69DBBA7}" ShortID="171943696">
@@ -4373,90 +4312,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{D328FDBC-5450-42C8-AAA2-BCF6C7E5B97D}">
+										<AudioFileSource Name="Door - Light close" ID="{F497EEB0-6EDB-4C77-B68D-07B4EAD59B2A}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Door - Light close.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="389546834"/>
+												<MediaID ID="337058312"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
-									<ObjectLists>
-										<ObjectList Name="RTPC">
-											<Reference>
-												<Local>
-													<RTPC Name="" ID="{AA73220B-D330-46B8-9B9C-87F0AF773E93}" ShortID="212285838">
-														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Lowpass"/>
-														</PropertyList>
-														<ReferenceList>
-															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
-															</Reference>
-															<Reference Name="Curve">
-																<Custom>
-																	<Curve Name="" ID="{567AA5CE-BBB3-488F-96C5-5AD27F445033}">
-																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="65537"/>
-																		</PropertyList>
-																		<PointList>
-																			<Point>
-																				<XPos>0</XPos>
-																				<YPos>0</YPos>
-																				<Flags>5</Flags>
-																			</Point>
-																			<Point>
-																				<XPos>1</XPos>
-																				<YPos>0</YPos>
-																				<Flags>37</Flags>
-																			</Point>
-																		</PointList>
-																	</Curve>
-																</Custom>
-															</Reference>
-														</ReferenceList>
-													</RTPC>
-												</Local>
-											</Reference>
-											<Reference>
-												<Local>
-													<RTPC Name="" ID="{A9C7EBBC-C180-4A1A-AABF-24571877D245}" ShortID="56424482">
-														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Volume"/>
-														</PropertyList>
-														<ReferenceList>
-															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
-															</Reference>
-															<Reference Name="Curve">
-																<Custom>
-																	<Curve Name="" ID="{F0C50535-3603-4568-A58B-32F9A711A946}">
-																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="3"/>
-																		</PropertyList>
-																		<PointList>
-																			<Point>
-																				<XPos>0</XPos>
-																				<YPos>0</YPos>
-																				<Flags>5</Flags>
-																			</Point>
-																			<Point>
-																				<XPos>1</XPos>
-																				<YPos>0</YPos>
-																				<Flags>37</Flags>
-																			</Point>
-																		</PointList>
-																	</Curve>
-																</Custom>
-															</Reference>
-														</ReferenceList>
-													</RTPC>
-												</Local>
-											</Reference>
-										</ObjectList>
-									</ObjectLists>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{D328FDBC-5450-42C8-AAA2-BCF6C7E5B97D}" Platform="Linked"/>
+										<ActiveSource Name="Door - Light close" ID="{F497EEB0-6EDB-4C77-B68D-07B4EAD59B2A}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
@@ -4473,16 +4338,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{D341D722-A36D-47CE-B32A-4962ED3D1213}">
+										<AudioFileSource Name="Door - Light open" ID="{16939D8B-3E69-4DB5-92E5-E815478A6612}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Door - Light open.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="389546834"/>
+												<MediaID ID="1008390333"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{D341D722-A36D-47CE-B32A-4962ED3D1213}" Platform="Linked"/>
+										<ActiveSource Name="Door - Light open" ID="{16939D8B-3E69-4DB5-92E5-E815478A6612}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="Door_light_close" ID="{795D572E-5F24-490E-A40E-379BA025706F}" ShortID="987803432">
@@ -4502,90 +4367,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{06D12CC2-2C1C-494F-946D-FD94C88E5DA4}">
+										<AudioFileSource Name="Door - Light close" ID="{00B837F0-5101-46B1-8325-C7F7D44B1EF2}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Door - Light close.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="389546834"/>
+												<MediaID ID="337058312"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
-									<ObjectLists>
-										<ObjectList Name="RTPC">
-											<Reference>
-												<Local>
-													<RTPC Name="" ID="{91B83A77-E5CA-4F4D-94FF-9DD9E8473153}" ShortID="553819617">
-														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Volume"/>
-														</PropertyList>
-														<ReferenceList>
-															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
-															</Reference>
-															<Reference Name="Curve">
-																<Custom>
-																	<Curve Name="" ID="{7888C84C-6AE2-4252-B429-D382C9502A82}">
-																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="3"/>
-																		</PropertyList>
-																		<PointList>
-																			<Point>
-																				<XPos>0</XPos>
-																				<YPos>0</YPos>
-																				<Flags>5</Flags>
-																			</Point>
-																			<Point>
-																				<XPos>1</XPos>
-																				<YPos>0</YPos>
-																				<Flags>37</Flags>
-																			</Point>
-																		</PointList>
-																	</Curve>
-																</Custom>
-															</Reference>
-														</ReferenceList>
-													</RTPC>
-												</Local>
-											</Reference>
-											<Reference>
-												<Local>
-													<RTPC Name="" ID="{9E18E335-7167-4AEC-B949-B8EE879DA85A}" ShortID="428518068">
-														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Lowpass"/>
-														</PropertyList>
-														<ReferenceList>
-															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
-															</Reference>
-															<Reference Name="Curve">
-																<Custom>
-																	<Curve Name="" ID="{F98061FF-08E4-4C18-ADF1-1E5137DBDF50}">
-																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="65537"/>
-																		</PropertyList>
-																		<PointList>
-																			<Point>
-																				<XPos>0</XPos>
-																				<YPos>0</YPos>
-																				<Flags>5</Flags>
-																			</Point>
-																			<Point>
-																				<XPos>1</XPos>
-																				<YPos>0</YPos>
-																				<Flags>37</Flags>
-																			</Point>
-																		</PointList>
-																	</Curve>
-																</Custom>
-															</Reference>
-														</ReferenceList>
-													</RTPC>
-												</Local>
-											</Reference>
-										</ObjectList>
-									</ObjectLists>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{06D12CC2-2C1C-494F-946D-FD94C88E5DA4}" Platform="Linked"/>
+										<ActiveSource Name="Door - Light close" ID="{00B837F0-5101-46B1-8325-C7F7D44B1EF2}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
@@ -4611,16 +4402,16 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{56FFECDD-FC33-4310-9A02-3EFC99A0B0BA}">
+										<AudioFileSource Name="Door - Light open" ID="{76CFC40D-38B1-4A20-9113-1A6E64ED62BF}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Door - Light open.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="389546834"/>
+												<MediaID ID="1008390333"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{56FFECDD-FC33-4310-9A02-3EFC99A0B0BA}" Platform="Linked"/>
+										<ActiveSource Name="Door - Light open" ID="{76CFC40D-38B1-4A20-9113-1A6E64ED62BF}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="Door_heavy_close" ID="{8B0C8476-7924-4559-824D-1D6F9F653E5B}" ShortID="867463296">
@@ -4636,95 +4427,95 @@
 										</Reference>
 									</ReferenceList>
 									<ChildrenList>
-										<AudioFileSource Name="Silence" ID="{BBA33502-3D5E-4B08-B77A-6478C0F2503A}">
+										<AudioFileSource Name="Door - Light close" ID="{42BE948B-1D48-4DDC-A056-BFECA45E0E5F}">
 											<Language>SFX</Language>
-											<AudioFile>Silence.wav</AudioFile>
+											<AudioFile>Door - Light close.wav</AudioFile>
 											<MediaIDList>
-												<MediaID ID="389546834"/>
+												<MediaID ID="337058312"/>
 											</MediaIDList>
 										</AudioFileSource>
 									</ChildrenList>
-									<ObjectLists>
-										<ObjectList Name="RTPC">
-											<Reference>
-												<Local>
-													<RTPC Name="" ID="{14E05112-84C3-4B4F-863A-1F8966347771}" ShortID="533980330">
-														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Volume"/>
-														</PropertyList>
-														<ReferenceList>
-															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
-															</Reference>
-															<Reference Name="Curve">
-																<Custom>
-																	<Curve Name="" ID="{03B378FE-9248-4F62-BCCF-99CDBC697134}">
-																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="3"/>
-																		</PropertyList>
-																		<PointList>
-																			<Point>
-																				<XPos>0</XPos>
-																				<YPos>0</YPos>
-																				<Flags>5</Flags>
-																			</Point>
-																			<Point>
-																				<XPos>1</XPos>
-																				<YPos>0</YPos>
-																				<Flags>37</Flags>
-																			</Point>
-																		</PointList>
-																	</Curve>
-																</Custom>
-															</Reference>
-														</ReferenceList>
-													</RTPC>
-												</Local>
-											</Reference>
-											<Reference>
-												<Local>
-													<RTPC Name="" ID="{E4C306AE-92B1-4C38-A3C8-0280B4309F14}" ShortID="626847032">
-														<PropertyList>
-															<Property Name="PropertyName" Type="string" Value="Lowpass"/>
-														</PropertyList>
-														<ReferenceList>
-															<Reference Name="ControlInput">
-																<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
-															</Reference>
-															<Reference Name="Curve">
-																<Custom>
-																	<Curve Name="" ID="{934C495B-29EA-47C4-A60A-5F3ECE554484}">
-																		<PropertyList>
-																			<Property Name="Flags" Type="int32" Value="65537"/>
-																		</PropertyList>
-																		<PointList>
-																			<Point>
-																				<XPos>0</XPos>
-																				<YPos>0</YPos>
-																				<Flags>5</Flags>
-																			</Point>
-																			<Point>
-																				<XPos>1</XPos>
-																				<YPos>0</YPos>
-																				<Flags>37</Flags>
-																			</Point>
-																		</PointList>
-																	</Curve>
-																</Custom>
-															</Reference>
-														</ReferenceList>
-													</RTPC>
-												</Local>
-											</Reference>
-										</ObjectList>
-									</ObjectLists>
 									<ActiveSourceList>
-										<ActiveSource Name="Silence" ID="{BBA33502-3D5E-4B08-B77A-6478C0F2503A}" Platform="Linked"/>
+										<ActiveSource Name="Door - Light close" ID="{42BE948B-1D48-4DDC-A056-BFECA45E0E5F}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
 						</Folder>
 					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="RTPC">
+							<Reference>
+								<Local>
+									<RTPC Name="" ID="{6C9EC319-EE6E-446D-91D5-31E526591A2E}" ShortID="595402080">
+										<PropertyList>
+											<Property Name="PropertyName" Type="string" Value="Lowpass"/>
+										</PropertyList>
+										<ReferenceList>
+											<Reference Name="ControlInput">
+												<ObjectRef Name="RTPC_Occlusion_LoPass" ID="{22574F28-1D30-4F9E-83F5-568B6408C2AE}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+											</Reference>
+											<Reference Name="Curve">
+												<Custom>
+													<Curve Name="" ID="{1AEB18B4-A872-4751-9336-5594A55401DB}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="65537"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>0</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>1</XPos>
+																<YPos>45</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</Custom>
+											</Reference>
+										</ReferenceList>
+									</RTPC>
+								</Local>
+							</Reference>
+							<Reference>
+								<Local>
+									<RTPC Name="" ID="{DD1ECBA0-4FEC-4A1B-A335-439FC87FEF14}" ShortID="895389401">
+										<PropertyList>
+											<Property Name="PropertyName" Type="string" Value="Volume"/>
+										</PropertyList>
+										<ReferenceList>
+											<Reference Name="ControlInput">
+												<ObjectRef Name="RTPC_Occlusion_Volume" ID="{2CDAEC9A-79F2-4CF0-9809-335ED47FF3F0}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+											</Reference>
+											<Reference Name="Curve">
+												<Custom>
+													<Curve Name="" ID="{731C3C11-E1EA-449E-80DD-0995C1A56C8B}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="3"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>0</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>1</XPos>
+																<YPos>-12</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</Custom>
+											</Reference>
+										</ReferenceList>
+									</RTPC>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
 				</ActorMixer>
 			</ChildrenList>
 		</WorkUnit>
