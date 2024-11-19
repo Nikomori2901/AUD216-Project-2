@@ -340,7 +340,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 2126d7e69a7328499f532c99ceab9b4e
       Path: Events\Default Work Unit\Doors\Play_door_basement_bulkhead_close
-      maxAttenuation: 0
+      maxAttenuation: 20
       maxDuration: 3.6134272
       minDuration: 3.6134272
     - name: Play_door_basement_bulkhead_open
@@ -540,7 +540,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: fe0d69102c2d29458ddc47f01e9ac892
       Path: Events\Default Work Unit\SFX General\Play_Furnace_fire_crackles
-      maxAttenuation: 30
+      maxAttenuation: 10
       maxDuration: -1
       minDuration: -1
     - name: Play_Furnace_rumbles
@@ -560,7 +560,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: b427a1f28b3e4b46a4f14e78a82de629
       Path: Events\Default Work Unit\SFX General\Play_Furnace_rumbles
-      maxAttenuation: 30
+      maxAttenuation: 10
       maxDuration: -1
       minDuration: -1
     - name: Play_Gramophone
@@ -580,7 +580,7 @@ MonoBehaviour:
         ObjectType: 3
         guid: 5ab3be2cb5ec9e47b64ab5638a5bae6e
       Path: Events\Default Work Unit\Interactables\Play_Gramophone
-      maxAttenuation: 30
+      maxAttenuation: 20
       maxDuration: 0.15941043
       minDuration: 0.15941043
     - name: Play_Grandfather_Clock_Ticking
