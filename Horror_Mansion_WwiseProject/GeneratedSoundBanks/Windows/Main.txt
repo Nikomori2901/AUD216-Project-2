@@ -80,9 +80,13 @@ Audio Bus	ID	Name			Wwise Object Path	Notes
 	4202237879	Ambience Bus			\Default Work Unit\Master Audio Bus\Ambience Bus	
 
 Auxiliary Bus	ID	Name			Wwise Object Path	Notes
-	940167904	Aux_Reverb_1			\Default Work Unit\Master Audio Bus\Aux_Reverb_1	
-	940167906	Aux_Reverb_3			\Default Work Unit\Master Audio Bus\Aux_Reverb_3	
-	940167907	Aux_Reverb_2			\Default Work Unit\Master Audio Bus\Aux_Reverb_2	
+	382774925	EntranceRoom_Reverb			\Default Work Unit\Master Audio Bus\EntranceRoom_Reverb	
+	518753750	DiningRoom_Reverb			\Default Work Unit\Master Audio Bus\DiningRoom_Reverb	
+	1345198195	Floor1Bathroom_Reverb			\Default Work Unit\Master Audio Bus\Floor1Bathroom_Reverb	
+	1517751684	PianoRoom_Reverb			\Default Work Unit\Master Audio Bus\PianoRoom_Reverb	
+	2672898618	Kitchen_Reverb			\Default Work Unit\Master Audio Bus\Kitchen_Reverb	
+	3110602672	Hallway_Reverb			\Default Work Unit\Master Audio Bus\Hallway_Reverb	
+	3171839917	Library_Reverb			\Default Work Unit\Master Audio Bus\Library_Reverb	
 
 Effect plug-ins	ID	Name	Type				Notes
 	1990128658	Room_Medium	Wwise RoomVerb			

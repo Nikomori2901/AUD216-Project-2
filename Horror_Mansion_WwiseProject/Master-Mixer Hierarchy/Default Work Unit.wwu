@@ -190,7 +190,7 @@
 								</ObjectList>
 							</ObjectLists>
 						</Bus>
-						<AuxBus Name="Aux_Reverb_1" ID="{50163336-E1D0-47A9-8C6D-E6D90F57C38D}">
+						<AuxBus Name="EntranceRoom_Reverb" ID="{50163336-E1D0-47A9-8C6D-E6D90F57C38D}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="15"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -249,7 +249,7 @@
 								</ObjectList>
 							</ObjectLists>
 						</AuxBus>
-						<AuxBus Name="Aux_Reverb_3" ID="{7A295352-CBB3-45AD-9FBF-88AF71590F50}">
+						<AuxBus Name="Kitchen_Reverb" ID="{7A295352-CBB3-45AD-9FBF-88AF71590F50}">
 							<PropertyList>
 								<Property Name="Color" Type="int16" Value="14"/>
 								<Property Name="OverrideColor" Type="bool" Value="True"/>
@@ -308,7 +308,7 @@
 								</ObjectList>
 							</ObjectLists>
 						</AuxBus>
-						<AuxBus Name="Aux_Reverb_2" ID="{DCE02057-D705-4CB3-AFB4-DF4D9B40C67A}">
+						<AuxBus Name="DiningRoom_Reverb" ID="{DCE02057-D705-4CB3-AFB4-DF4D9B40C67A}">
 							<PropertyList>
 								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 							</PropertyList>
@@ -353,6 +353,242 @@
 																		<XPos>-37.69332</XPos>
 																		<YPos>-0.49001</YPos>
 																		<Flags>0</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>12</XPos>
+																		<YPos>12</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</AuxBus>
+						<AuxBus Name="Hallway_Reverb" ID="{7E271558-D6E4-4527-8806-FAC5E8B4B249}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="14"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+							</PropertyList>
+							<ObjectLists>
+								<ObjectList Name="Effects">
+									<Reference>
+										<Local>
+											<EffectSlot Name="" ID="{9D7CED02-296F-4821-9E7C-A0E89AA0C180}" ShortID="795891667">
+												<ReferenceList>
+													<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+														<ObjectRef Name="Room_Medium" ID="{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+													</Reference>
+												</ReferenceList>
+											</EffectSlot>
+										</Local>
+									</Reference>
+								</ObjectList>
+								<ObjectList Name="RTPC">
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{2881E30A-B352-4DC2-9231-CE10EDA2D5D5}" ShortID="1073128030">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="OutputBusVolume"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="Aux_Reverb_3" ID="{8EE03E7D-6B2C-4F2E-8B15-14D843A4B85D}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{4258985F-6885-4DBB-AE32-A661A563A880}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>-96</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>12</XPos>
+																		<YPos>12</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</AuxBus>
+						<AuxBus Name="Library_Reverb" ID="{B37C548F-CC68-40AE-8358-051EF2179DF7}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="14"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+							</PropertyList>
+							<ObjectLists>
+								<ObjectList Name="Effects">
+									<Reference>
+										<Local>
+											<EffectSlot Name="" ID="{25FA7AE8-B1C0-4F45-87C2-2CC3FA937D6A}" ShortID="166235003">
+												<ReferenceList>
+													<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+														<ObjectRef Name="Room_Medium" ID="{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+													</Reference>
+												</ReferenceList>
+											</EffectSlot>
+										</Local>
+									</Reference>
+								</ObjectList>
+								<ObjectList Name="RTPC">
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{1ED744A2-0546-4E13-B487-9EDC3CEA7901}" ShortID="3742988">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="OutputBusVolume"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="Aux_Reverb_3" ID="{8EE03E7D-6B2C-4F2E-8B15-14D843A4B85D}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{D07EC26B-9610-413B-A9C4-6F75D67EA907}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>-96</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>12</XPos>
+																		<YPos>12</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</AuxBus>
+						<AuxBus Name="PianoRoom_Reverb" ID="{C227FA93-1D4B-4EB6-BBA1-9902206BEDB4}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="14"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+							</PropertyList>
+							<ObjectLists>
+								<ObjectList Name="Effects">
+									<Reference>
+										<Local>
+											<EffectSlot Name="" ID="{806C5395-5F1A-4FC2-970F-48BCE30B1959}" ShortID="510796128">
+												<ReferenceList>
+													<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+														<ObjectRef Name="Room_Medium" ID="{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+													</Reference>
+												</ReferenceList>
+											</EffectSlot>
+										</Local>
+									</Reference>
+								</ObjectList>
+								<ObjectList Name="RTPC">
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{ED41695F-13C8-4298-9943-18E217BB15A3}" ShortID="637262857">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="OutputBusVolume"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="Aux_Reverb_3" ID="{8EE03E7D-6B2C-4F2E-8B15-14D843A4B85D}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{830519E0-C7CE-4A16-B62C-70004D24F14F}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>-96</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>12</XPos>
+																		<YPos>12</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</Custom>
+													</Reference>
+												</ReferenceList>
+											</RTPC>
+										</Local>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</AuxBus>
+						<AuxBus Name="Floor1Bathroom_Reverb" ID="{9F44DA14-E790-41EB-A4BD-E9CA9C10A3D9}">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="14"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+							</PropertyList>
+							<ObjectLists>
+								<ObjectList Name="Effects">
+									<Reference>
+										<Local>
+											<EffectSlot Name="" ID="{64C1477B-1F08-488B-AF38-30BEBB181895}" ShortID="421191871">
+												<ReferenceList>
+													<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+														<ObjectRef Name="Room_Medium" ID="{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+													</Reference>
+												</ReferenceList>
+											</EffectSlot>
+										</Local>
+									</Reference>
+								</ObjectList>
+								<ObjectList Name="RTPC">
+									<Reference>
+										<Local>
+											<RTPC Name="" ID="{AD956430-2CDD-45D5-BD02-DCD84AC5042C}" ShortID="503688271">
+												<PropertyList>
+													<Property Name="PropertyName" Type="string" Value="OutputBusVolume"/>
+												</PropertyList>
+												<ReferenceList>
+													<Reference Name="ControlInput">
+														<ObjectRef Name="Aux_Reverb_3" ID="{8EE03E7D-6B2C-4F2E-8B15-14D843A4B85D}" WorkUnitID="{98E06855-D25A-4BCD-AA68-668DA6314033}"/>
+													</Reference>
+													<Reference Name="Curve">
+														<Custom>
+															<Curve Name="" ID="{175BB270-CA74-448B-9A88-2C6FBF277BD4}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>-96</XPos>
+																		<YPos>-200</YPos>
+																		<Flags>5</Flags>
 																	</Point>
 																	<Point>
 																		<XPos>12</XPos>

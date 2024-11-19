@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60b059a2bd97e49eba0696942f72ab1c, type: 3}
   m_Name: DCE02057-D705-4CB3-AFB4-DF4D9B40C67A
   m_EditorClassIdentifier: 
-  objectName: Aux_Reverb_2
-  id: 940167907
+  objectName: DiningRoom_Reverb
+  id: 518753750
   guid: DCE02057-D705-4CB3-AFB4-DF4D9B40C67A

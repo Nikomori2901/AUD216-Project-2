@@ -130,9 +130,13 @@ namespace AK
 
     namespace AUX_BUSSES
     {
-        static const AkUniqueID AUX_REVERB_1 = 940167904U;
-        static const AkUniqueID AUX_REVERB_2 = 940167907U;
-        static const AkUniqueID AUX_REVERB_3 = 940167906U;
+        static const AkUniqueID DININGROOM_REVERB = 518753750U;
+        static const AkUniqueID ENTRANCEROOM_REVERB = 382774925U;
+        static const AkUniqueID FLOOR1BATHROOM_REVERB = 1345198195U;
+        static const AkUniqueID HALLWAY_REVERB = 3110602672U;
+        static const AkUniqueID KITCHEN_REVERB = 2672898618U;
+        static const AkUniqueID LIBRARY_REVERB = 3171839917U;
+        static const AkUniqueID PIANOROOM_REVERB = 1517751684U;
     } // namespace AUX_BUSSES
 
     namespace AUDIO_DEVICES

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60b059a2bd97e49eba0696942f72ab1c, type: 3}
   m_Name: 7A295352-CBB3-45AD-9FBF-88AF71590F50
   m_EditorClassIdentifier: 
-  objectName: Aux_Reverb_3
-  id: 940167906
+  objectName: Kitchen_Reverb
+  id: 2672898618
   guid: 7A295352-CBB3-45AD-9FBF-88AF71590F50

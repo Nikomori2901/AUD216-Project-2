@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60b059a2bd97e49eba0696942f72ab1c, type: 3}
   m_Name: 50163336-E1D0-47A9-8C6D-E6D90F57C38D
   m_EditorClassIdentifier: 
-  objectName: Aux_Reverb_1
-  id: 940167904
+  objectName: EntranceRoom_Reverb
+  id: 382774925
   guid: 50163336-E1D0-47A9-8C6D-E6D90F57C38D

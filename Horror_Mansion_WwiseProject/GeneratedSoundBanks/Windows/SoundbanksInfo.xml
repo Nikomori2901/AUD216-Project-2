@@ -9,7 +9,7 @@
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{6CBE7BED-3133-2A58-D813-6F7EB9FA094C}">
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{359BB1DD-08D4-71E0-9DEE-3B9A30887F1B}">
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 			<Plugins>
@@ -32,24 +32,52 @@
 				<Bus Id="4202237879" Name="Ambience Bus"/>
 			</Busses>
 			<AuxBusses>
-				<AuxBus Id="940167904" Name="Aux_Reverb_1">
+				<AuxBus Id="382774925" Name="EntranceRoom_Reverb">
 					<PluginRefs>
 						<ShareSets>
 							<PluginRef Id="2849147824"/>
 						</ShareSets>
 					</PluginRefs>
 				</AuxBus>
-				<AuxBus Id="940167906" Name="Aux_Reverb_3">
+				<AuxBus Id="518753750" Name="DiningRoom_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="1345198195" Name="Floor1Bathroom_Reverb">
 					<PluginRefs>
 						<ShareSets>
 							<PluginRef Id="1990128658"/>
 						</ShareSets>
 					</PluginRefs>
 				</AuxBus>
-				<AuxBus Id="940167907" Name="Aux_Reverb_2">
+				<AuxBus Id="1517751684" Name="PianoRoom_Reverb">
 					<PluginRefs>
 						<ShareSets>
-							<PluginRef Id="3164629247"/>
+							<PluginRef Id="1990128658"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="2672898618" Name="Kitchen_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1990128658"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="3110602672" Name="Hallway_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1990128658"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="3171839917" Name="Library_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1990128658"/>
 						</ShareSets>
 					</PluginRefs>
 				</AuxBus>
@@ -96,7 +124,7 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{44EA4586-D61F-81E9-56C8-A9B1790ED9F6}">
+		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{621A9B11-E1CA-AFA9-37B2-0A48849C76ED}">
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<Media>
@@ -776,24 +804,52 @@
 				<Bus Id="4202237879" Name="Ambience Bus"/>
 			</Busses>
 			<AuxBusses>
-				<AuxBus Id="940167904" Name="Aux_Reverb_1">
+				<AuxBus Id="382774925" Name="EntranceRoom_Reverb">
 					<PluginRefs>
 						<ShareSets>
 							<PluginRef Id="2849147824"/>
 						</ShareSets>
 					</PluginRefs>
 				</AuxBus>
-				<AuxBus Id="940167906" Name="Aux_Reverb_3">
+				<AuxBus Id="518753750" Name="DiningRoom_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3164629247"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="1345198195" Name="Floor1Bathroom_Reverb">
 					<PluginRefs>
 						<ShareSets>
 							<PluginRef Id="1990128658"/>
 						</ShareSets>
 					</PluginRefs>
 				</AuxBus>
-				<AuxBus Id="940167907" Name="Aux_Reverb_2">
+				<AuxBus Id="1517751684" Name="PianoRoom_Reverb">
 					<PluginRefs>
 						<ShareSets>
-							<PluginRef Id="3164629247"/>
+							<PluginRef Id="1990128658"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="2672898618" Name="Kitchen_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1990128658"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="3110602672" Name="Hallway_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1990128658"/>
+						</ShareSets>
+					</PluginRefs>
+				</AuxBus>
+				<AuxBus Id="3171839917" Name="Library_Reverb">
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="1990128658"/>
 						</ShareSets>
 					</PluginRefs>
 				</AuxBus>
@@ -824,5 +880,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{6C154222-9242-1FAC-6891-C0907B187B9C}</FileHash>
+	<FileHash>{3B8E1D84-4222-D3C9-F82C-EB995A09BF5E}</FileHash>
 </SoundBanksInfo>
